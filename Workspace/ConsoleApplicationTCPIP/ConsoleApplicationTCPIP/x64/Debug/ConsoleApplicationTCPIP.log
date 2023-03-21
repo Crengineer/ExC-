@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationTCPIP.cpp
+C:\Users\cresp\Desktop\TCPConnectionCPP\Workspace\ConsoleApplicationTCPIP\ConsoleApplicationTCPIP\ConsoleApplicationTCPIP.cpp(30,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplicationTCPIP.vcxproj -> C:\Users\cresp\Desktop\TCPConnectionCPP\Workspace\ConsoleApplicationTCPIP\x64\Debug\ConsoleApplicationTCPIP.exe

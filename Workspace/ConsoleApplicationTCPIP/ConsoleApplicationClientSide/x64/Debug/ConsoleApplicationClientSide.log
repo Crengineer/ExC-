@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationClientSide.cpp
+C:\Users\cresp\Desktop\TCPConnectionCPP\Workspace\ConsoleApplicationTCPIP\ConsoleApplicationClientSide\ConsoleApplicationClientSide.cpp(132,87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplicationClientSide.vcxproj -> C:\Users\cresp\Desktop\TCPConnectionCPP\Workspace\ConsoleApplicationTCPIP\x64\Debug\ConsoleApplicationClientSide.exe
